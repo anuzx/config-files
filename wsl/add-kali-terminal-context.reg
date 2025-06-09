@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\OpenKaliTerminal]
+@="Open in Kali"
+"Icon"="D:\\mE\\SCRIPTS .SH .BAT .REG\\terminal.ico"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\OpenKaliTerminal\command]
+@="\"D:\\mE\\SCRIPTS .SH .BAT .REG\\kali_terminal_open\\kali-terminal-here.bat\""
